@@ -1,50 +1,51 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Mothana Almajali!
 
-Welcome to my GitHub profile! I'm a passionate backend developer specializing in Node.js. I love building scalable and efficient server-side applications.
+Welcome to my GitHub profile! I'm a passionate Software Engineer and Backend Web Developer with a strong foundation in software engineering principles. I thrive on building projects that enhance my technical skills and demonstrate adaptability to new challenges.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Your Current Project or Company].
-- 🌱 I’m learning advanced Node.js patterns and microservices architecture.
-- 💬 Ask me about Node.js, Express, MongoDB, and RESTful APIs.
-- 📫 How to reach me: [Your Email] or connect with me on [LinkedIn](your-linkedin-profile).
+- 🔭 I’m currently enhancing my skills in backend development and exploring new technologies.
+- 🌱 I’m learning advanced backend frameworks and real-time communication technologies.
+- 💬 Ask me about Node.js, Express.js, Nest.js, and database management with PostgreSQL and MongoDB.
+- 📫 How to reach me: [mothanaalmajali91@gmail.com](mailto:mothanaalmajali91@gmail.com) or connect with me on [LinkedIn](your-linkedin-profile).
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript (ES6+), TypeScript
-- **Frameworks**: Node.js, Express.js, NestJS
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **Tools**: Docker, Git, Jenkins, Postman
-- **Cloud**: AWS, Heroku
+- **Languages**: JavaScript, TypeScript
+- **Frameworks**: Node.js, Express.js, Nest.js
+- **Databases**: PostgreSQL, MongoDB
+- **Tools**: Git, GitHub, Swagger, Firebase Storage
+- **Web Technologies**: HTML, CSS, Bootstrap, Tailwind CSS
+- **Other**: WebSockets, Webhooks, OAuth
 
 ## 🌟 Featured Projects
 
-- **[Project Name](link-to-project)**: A brief description of what the project does, the technologies used, and your role.
-  - ![Tech Stack](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-- **[Another Project](link-to-project)**: A brief description of what the project does, the technologies used, and your role.
+- **[Project Name](link-to-project)**: Developed RESTful APIs with server-side frameworks, including routing and middleware.
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+- **[Another Project](link-to-project)**: Built scalable applications and integrated Firebase Storage for efficient file management.
+  - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  - ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Mothana's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 📝 Blog & Writing
+## 🏆 Achievements
 
-- [Your Blog Name](link-to-blog): Share insights on Node.js, backend development, and more.
-- [Medium](link-to-medium): Check out my articles on software development.
+- Proficient in Git and GitHub for collaborative projects, including branching.
+- Mastered relational and NoSQL databases, using ORM libraries like Sequelize.
+- Strong foundation in Object-Oriented Programming (OOP).
 
-## 🎨 Fun Facts
+## 🎓 Education
 
-- 🎸 I love playing the guitar in my free time.
-- 🌍 I enjoy traveling and exploring new cultures.
+- **Bachelor of Software Engineering** - Hashemite University (09/2020 - 01/2025)
+- **Back-end Web Developer Bootcamp** - Coding Academy by Orange (09/2023 – 12/2023)
 
 ## 🤝 Let's Connect!
 
 - [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Personal Website](your-website)
+- [GitHub](your-github-profile)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
