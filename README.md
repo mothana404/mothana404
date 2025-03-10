@@ -28,10 +28,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Backend Web
   - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   - ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-## 📈 GitHub Stats
-
-![Mothana's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🏆 Achievements
 
 - Proficient in Git and GitHub for collaborative projects, including branching.
