@@ -78,6 +78,7 @@ Feel free to reach out for collaborations or just a friendly chat:
         <p>⚡ <strong>Chris Pine</strong></p>
       </td>
     </tr>
+    </br>
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/Quote_%232-282A36?style=for-the-badge&logo=quote&logoColor=white" alt=""/>
@@ -90,27 +91,11 @@ Feel free to reach out for collaborations or just a friendly chat:
   </table>
 </div>
 
-## 🎯 Metrics & Memes
-
-<!-- Metrics Dashboard -->
 <div align="center">
-  <h3>📊 My GitHub Metrics</h3>
-  <img src="https://metrics.lecoq.io/mothanaalmajali?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FAmman" alt="Metrics"/>
-</div>
-
-<br>
-
-<!-- Dev Meme Section -->
-<div align="center">
-  <h3>😄 Random Dev Meme</h3>
-  <img src="https://programmerhumor.io/wp-content/uploads/2022/07/programmerhumor-io-programming-memes-c5a78f6e967df7b-608x642.jpg" width="400px" alt="Dev Meme"/>
-</div>
-
-
-
-<!-- GitHub Skyline 3D Contribution Graph -->
-<div align="center">
-  <a href="https://skyline.github.com/YourUsername/2023" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Skyline%20🏙️-blue?style=for-the-badge&logo=github" alt="GitHub Skyline"/>
-  </a>
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+  ![Coffee](https://img.shields.io/badge/Coffee%20Level-Full-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
+  ![Sleep](https://img.shields.io/badge/Sleep%20Level-Low-red?style=for-the-badge&logo=sleepordie&logoColor=white)
+  ![Debug](https://img.shields.io/badge/Debug%20Mode-ON-brightgreen?style=for-the-badge&logo=debug&logoColor=white)
 </div>
