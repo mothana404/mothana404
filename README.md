@@ -79,13 +79,21 @@ Feel free to reach out for collaborations or just a friendly chat:
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="600px">
-        <img width="100%" src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1500&multiline=true&width=500&height=80&lines=%22Programming+isn't+about+what+you+know%3B+it's+about+what+you+can+figure+out.%22+-+Chris+Pine" alt="Programming Quote" />
+      <td align="center">
+        <img src="https://img.shields.io/badge/Quote_%231-282A36?style=for-the-badge&logo=quote&logoColor=white" alt="Quote 1"/>
+        <br>
+        <h3><i>"Programming isn't about what you know;<br>
+        it's about what you can figure out."</i></h3>
+        <p>⚡ <strong>Chris Pine</strong></p>
       </td>
     </tr>
     <tr>
-      <td align="center" width="600px">
-        <img width="100%" src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1500&multiline=true&width=500&height=80&lines=%22The+best+error+message+is+the+one+that+never+shows+up.%22+-+Thomas+Fuchs" alt="Error Message Quote" />
+      <td align="center">
+        <img src="https://img.shields.io/badge/Quote_%232-282A36?style=for-the-badge&logo=quote&logoColor=white" alt="Quote 2"/>
+        <br>
+        <h3><i>"The best error message is the one<br>
+        that never shows up."</i></h3>
+        <p>💻 <strong>Thomas Fuchs</strong></p>
       </td>
     </tr>
   </table>
