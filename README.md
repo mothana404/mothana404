@@ -76,20 +76,20 @@ Feel free to reach out for collaborations or just a friendly chat:
 
 ## 💭 Developer's Wisdom
 
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/-%22Programming%20isn't%20about%20what%20you%20know%3B%20it's%20about%20what%20you%20can%20figure%20out.%22-1a1b27?style=for-the-badge" alt="Programming Quote"/>
-      <img src="https://img.shields.io/badge/-Chris%20Pine-4e5173?style=flat-square" alt="Chris Pine"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/-%22The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.%22-1a1b27?style=for-the-badge" alt="Error Message Quote"/>
-      <img src="https://img.shields.io/badge/-Thomas%20Fuchs-4e5173?style=flat-square" alt="Thomas Fuchs"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="600px">
+        <img width="100%" src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1500&multiline=true&width=500&height=80&lines=%22Programming+isn't+about+what+you+know%3B+it's+about+what+you+can+figure+out.%22+-+Chris+Pine" alt="Programming Quote" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="600px">
+        <img width="100%" src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1500&multiline=true&width=500&height=80&lines=%22The+best+error+message+is+the+one+that+never+shows+up.%22+-+Thomas+Fuchs" alt="Error Message Quote" />
+      </td>
+    </tr>
+  </table>
+</div>
 
   <!-- Activity Graph -->
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
