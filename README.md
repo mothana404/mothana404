@@ -92,9 +92,7 @@ Feel free to reach out for collaborations or just a friendly chat:
 </div>
 
 <div align="center">
-  
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
-  
+
   ![Coffee](https://img.shields.io/badge/Coffee%20Level-Full-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
   ![Sleep](https://img.shields.io/badge/Sleep%20Level-Low-red?style=for-the-badge&logo=sleepordie&logoColor=white)
   ![Debug](https://img.shields.io/badge/Debug%20Mode-ON-brightgreen?style=for-the-badge&logo=debug&logoColor=white)
