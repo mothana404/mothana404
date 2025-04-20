@@ -41,8 +41,6 @@ Passionate Backend Developer with expertise in .NET and JavaScript technologies.
 
 [![LinkedIn Post](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/mothana-majali77_learningplatform-universitystudents-webdevelopment-activity-7292873160624926722-181n)
 
-[![LinkedIn Post](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://github.com/mothana404/SCEPHub](https://www.linkedin.com/posts/mothana-majali77_learningplatform-universitystudents-webdevelopment-activity-7292873160624926722-181n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjqxEABxWytTLFsDcG24TJ0668cCEBVc_g)))
-
 An innovative educational platform built for university students featuring:
 - 🎓 Subscription-based course access
 - 👥 Real-time collaboration tools
@@ -60,16 +58,46 @@ A revolutionary gifting platform featuring:
 - 💳 Integrated Stripe payment processing
 - 🛠️ Tech Stack: React, Node.js, Express, PostgreSQL, Tailwind CSS
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 📫 Let's Connect
 
 Feel free to reach out for collaborations or just a friendly chat:
 - 📧 Email: mothanaalmajali91@gmail.com
 - 📱 Phone: +962 7 777 163 28
 - 💼 LinkedIn: [Mothana Almajali](https://www.linkedin.com/in/mothana-majali77/)
+
+## 🎨 Fun Zone
+
+<div align="center">
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+  <!-- Typing Animation -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DEBA7&random=false&width=435&lines=Backend+Developer;Problem+Solver;Code+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+
+  <!-- Random Dev Quote -->
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+  <!-- Profile Trophy -->
+  [![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+  <!-- Spotify Now Playing -->
+  [![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/YourSpotifyUsername)
+
+  <!-- Activity Graph -->
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <!-- Profile Views Counter -->
+  ![](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=green)
+</div>
+
+<!-- Fun Metrics -->
+<details>
+<summary>🎮 More Fun Stats</summary>
+<br>
+
+<!--START_SECTION:waka-->
+```text
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
