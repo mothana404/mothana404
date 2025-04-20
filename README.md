@@ -65,22 +65,13 @@ Feel free to reach out for collaborations or just a friendly chat:
 - 📱 Phone: +962 7 777 163 28
 - 💼 LinkedIn: [Mothana Almajali](https://www.linkedin.com/in/mothana-majali77/)
 
-## 🎨 My Zone
-
-<div align="center">
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-  <!-- Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DEBA7&random=false&width=435&lines=Backend+Developer;Problem+Solver;Code+Enthusiast;Always+Learning)](https://git.io/typing-svg)
-
 ## 💭 Developer's Wisdom
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Quote_%231-282A36?style=for-the-badge&logo=quote&logoColor=white" alt="Quote 1"/>
+        <img src="https://img.shields.io/badge/Quote_%231-282A36?style=for-the-badge&logo=quote&logoColor=white" alt=""/>
         <br>
         <h3><i>"Programming isn't about what you know;<br>
         it's about what you can figure out."</i></h3>
@@ -89,7 +80,7 @@ Feel free to reach out for collaborations or just a friendly chat:
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Quote_%232-282A36?style=for-the-badge&logo=quote&logoColor=white" alt="Quote 2"/>
+        <img src="https://img.shields.io/badge/Quote_%232-282A36?style=for-the-badge&logo=quote&logoColor=white" alt=""/>
         <br>
         <h3><i>"The best error message is the one<br>
         that never shows up."</i></h3>
@@ -99,9 +90,57 @@ Feel free to reach out for collaborations or just a friendly chat:
   </table>
 </div>
 
-  <!-- Activity Graph -->
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Random Dev Meme -->
+<div align="center">
+  <img src="https://random-memer.herokuapp.com/" width="512px" alt="Random Dev Meme"/>
+</div>
 
-  <!-- Profile Views Counter -->
-  ![](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=green)
+<!-- Funny ASCII Art -->
+<div align="center">
+  
+
+  💻 Happy Coding! 
+  \  ^__^
+   \ (oo)\_______
+     (__)\       )\/\
+         ||----w |
+         ||     ||
+
+  
+</div>
+
+
+
+<!-- Metrics -->
+<div align="center">
+  <img src="https://metrics.lecoq.io/YourUsername?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FParis" alt="Metrics"/>
+</div>
+
+
+<!-- Contribution Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
+<!-- Funny Badges -->
+<div align="center">
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+  ![Coffee](https://img.shields.io/badge/Coffee%20Level-Full-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
+  ![Sleep](https://img.shields.io/badge/Sleep%20Level-Low-red?style=for-the-badge&logo=sleepordie&logoColor=white)
+  ![Debug](https://img.shields.io/badge/Debug%20Mode-ON-brightgreen?style=for-the-badge&logo=debug&logoColor=white)
+</div>
+
+
+<!-- GitHub Skyline 3D Contribution Graph -->
+<div align="center">
+  <a href="https://skyline.github.com/YourUsername/2023" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Skyline%20🏙️-blue?style=for-the-badge&logo=github" alt="GitHub Skyline"/>
+  </a>
 </div>
