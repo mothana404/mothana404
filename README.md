@@ -90,52 +90,22 @@ Feel free to reach out for collaborations or just a friendly chat:
   </table>
 </div>
 
-<!-- Random Dev Meme -->
+## 🎯 Metrics & Memes
+
+<!-- Metrics Dashboard -->
 <div align="center">
-  <img src="https://random-memer.herokuapp.com/" width="512px" alt="Random Dev Meme"/>
+  <h3>📊 My GitHub Metrics</h3>
+  <img src="https://metrics.lecoq.io/mothanaalmajali?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FAmman" alt="Metrics"/>
 </div>
 
-<!-- Funny ASCII Art -->
+<br>
+
+<!-- Dev Meme Section -->
 <div align="center">
-  
-
-  💻 Happy Coding! 
-  \  ^__^
-   \ (oo)\_______
-     (__)\       )\/\
-         ||----w |
-         ||     ||
-
-  
+  <h3>😄 Random Dev Meme</h3>
+  <img src="https://programmerhumor.io/wp-content/uploads/2022/07/programmerhumor-io-programming-memes-c5a78f6e967df7b-608x642.jpg" width="400px" alt="Dev Meme"/>
 </div>
 
-
-
-<!-- Metrics -->
-<div align="center">
-  <img src="https://metrics.lecoq.io/YourUsername?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FParis" alt="Metrics"/>
-</div>
-
-
-<!-- Contribution Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-
-<!-- Funny Badges -->
-<div align="center">
-  
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
-  
-  ![Coffee](https://img.shields.io/badge/Coffee%20Level-Full-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
-  ![Sleep](https://img.shields.io/badge/Sleep%20Level-Low-red?style=for-the-badge&logo=sleepordie&logoColor=white)
-  ![Debug](https://img.shields.io/badge/Debug%20Mode-ON-brightgreen?style=for-the-badge&logo=debug&logoColor=white)
-</div>
 
 
 <!-- GitHub Skyline 3D Contribution Graph -->
