@@ -77,36 +77,118 @@ Feel free to reach out for collaborations or just a friendly chat:
 ## 💭 Developer's Wisdom
 
 <div align="center">
-  <div style="background: #1a1b27; padding: 20px; border-radius: 10px; margin: 10px;">
-    <i>"Programming isn't about what you know; it's about what you can figure out."</i><br>
-    <strong>- Chris Pine</strong>
-  </div>
+  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <div style="
+      background: linear-gradient(45deg, #1a1b27, #2a2b37);
+      border: 2px solid #2DEBA7;
+      border-radius: 20px;
+      padding: 25px;
+      margin: 20px;
+      width: 80%;
+      box-shadow: 0 4px 8px rgba(45, 235, 167, 0.2);">
+      <h3 style="color: #2DEBA7; font-size: 24px; margin-bottom: 10px;">
+        <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" height="30px"> Quote of Wisdom
+      </h3>
+      <p style="color: #ffffff; font-size: 20px; font-style: italic; line-height: 1.5;">
+        "Programming isn't about what you know;<br>
+        it's about what you can figure out."
+      </p>
+      <p style="color: #2DEBA7; font-size: 18px; text-align: right; margin-top: 10px;">
+        - Chris Pine ⚡
+      </p>
+    </div>
 
-  <div style="background: #1a1b27; padding: 20px; border-radius: 10px; margin: 10px;">
-    <i>"The best error message is the one that never shows up."</i><br>
-    <strong>- Thomas Fuchs</strong>
+    <div style="
+      background: linear-gradient(45deg, #1a1b27, #2a2b37);
+      border: 2px solid #2DEBA7;
+      border-radius: 20px;
+      padding: 25px;
+      margin: 20px;
+      width: 80%;
+      box-shadow: 0 4px 8px rgba(45, 235, 167, 0.2);">
+      <h3 style="color: #2DEBA7; font-size: 24px; margin-bottom: 10px;">
+        <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" height="30px"> Developer's Truth
+      </h3>
+      <p style="color: #ffffff; font-size: 20px; font-style: italic; line-height: 1.5;">
+        "The best error message is the one<br>
+        that never shows up."
+      </p>
+      <p style="color: #2DEBA7; font-size: 18px; text-align: right; margin-top: 10px;">
+        - Thomas Fuchs 💻
+      </p>
+    </div>
   </div>
 </div>
 
-## 💭 Developer's Wisdom
-
+<!-- Alternative Version with HTML Tables for Better GitHub Compatibility -->
 <div align="center">
-  <table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
       <td align="center">
-        <i>"Programming isn't about what you know;<br>
-        it's about what you can figure out."</i><br>
-        <strong>- Chris Pine</strong>
+        <table width="80%" style="
+          background: #1a1b27;
+          border: 2px solid #2DEBA7;
+          border-radius: 20px;
+          margin: 20px;
+          padding: 25px;">
+          <tr>
+            <td align="center">
+              <h3 style="color: #2DEBA7;">
+                🌟 Quote of Wisdom
+              </h3>
+              <p style="
+                font-size: 20px;
+                font-style: italic;
+                color: white;
+                line-height: 1.5;">
+                "Programming isn't about what you know;<br>
+                it's about what you can figure out."
+              </p>
+              <p style="
+                color: #2DEBA7;
+                font-size: 18px;
+                text-align: right;">
+                - Chris Pine ⚡
+              </p>
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <i>"The best error message is the one<br>
-        that never shows up."</i><br>
-        <strong>- Thomas Fuchs</strong>
+        <table width="80%" style="
+          background: #1a1b27;
+          border: 2px solid #2DEBA7;
+          border-radius: 20px;
+          margin: 20px;
+          padding: 25px;">
+          <tr>
+            <td align="center">
+              <h3 style="color: #2DEBA7;">
+                💭 Developer's Truth
+              </h3>
+              <p style="
+                font-size: 20px;
+                font-style: italic;
+                color: white;
+                line-height: 1.5;">
+                "The best error message is the one<br>
+                that never shows up."
+              </p>
+              <p style="
+                color: #2DEBA7;
+                font-size: 18px;
+                text-align: right;">
+                - Thomas Fuchs 💻
+              </p>
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
+</div>
 
   <!-- Profile Trophy -->
   [![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
