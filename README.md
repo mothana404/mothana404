@@ -65,7 +65,7 @@ Feel free to reach out for collaborations or just a friendly chat:
 - 📱 Phone: +962 7 777 163 28
 - 💼 LinkedIn: [Mothana Almajali](https://www.linkedin.com/in/mothana-majali77/)
 
-## 🎨 Fun Zone
+## 🎨 My Zone
 
 <div align="center">
   <!-- Snake Animation -->
@@ -76,122 +76,20 @@ Feel free to reach out for collaborations or just a friendly chat:
 
 ## 💭 Developer's Wisdom
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <div style="
-      background: linear-gradient(45deg, #1a1b27, #2a2b37);
-      border: 2px solid #2DEBA7;
-      border-radius: 20px;
-      padding: 25px;
-      margin: 20px;
-      width: 80%;
-      box-shadow: 0 4px 8px rgba(45, 235, 167, 0.2);">
-      <h3 style="color: #2DEBA7; font-size: 24px; margin-bottom: 10px;">
-        <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" height="30px"> Quote of Wisdom
-      </h3>
-      <p style="color: #ffffff; font-size: 20px; font-style: italic; line-height: 1.5;">
-        "Programming isn't about what you know;<br>
-        it's about what you can figure out."
-      </p>
-      <p style="color: #2DEBA7; font-size: 18px; text-align: right; margin-top: 10px;">
-        - Chris Pine ⚡
-      </p>
-    </div>
-
-    <div style="
-      background: linear-gradient(45deg, #1a1b27, #2a2b37);
-      border: 2px solid #2DEBA7;
-      border-radius: 20px;
-      padding: 25px;
-      margin: 20px;
-      width: 80%;
-      box-shadow: 0 4px 8px rgba(45, 235, 167, 0.2);">
-      <h3 style="color: #2DEBA7; font-size: 24px; margin-bottom: 10px;">
-        <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" height="30px"> Developer's Truth
-      </h3>
-      <p style="color: #ffffff; font-size: 20px; font-style: italic; line-height: 1.5;">
-        "The best error message is the one<br>
-        that never shows up."
-      </p>
-      <p style="color: #2DEBA7; font-size: 18px; text-align: right; margin-top: 10px;">
-        - Thomas Fuchs 💻
-      </p>
-    </div>
-  </div>
-</div>
-
-<!-- Alternative Version with HTML Tables for Better GitHub Compatibility -->
-<div align="center">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
-    <tr>
-      <td align="center">
-        <table width="80%" style="
-          background: #1a1b27;
-          border: 2px solid #2DEBA7;
-          border-radius: 20px;
-          margin: 20px;
-          padding: 25px;">
-          <tr>
-            <td align="center">
-              <h3 style="color: #2DEBA7;">
-                🌟 Quote of Wisdom
-              </h3>
-              <p style="
-                font-size: 20px;
-                font-style: italic;
-                color: white;
-                line-height: 1.5;">
-                "Programming isn't about what you know;<br>
-                it's about what you can figure out."
-              </p>
-              <p style="
-                color: #2DEBA7;
-                font-size: 18px;
-                text-align: right;">
-                - Chris Pine ⚡
-              </p>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <table width="80%" style="
-          background: #1a1b27;
-          border: 2px solid #2DEBA7;
-          border-radius: 20px;
-          margin: 20px;
-          padding: 25px;">
-          <tr>
-            <td align="center">
-              <h3 style="color: #2DEBA7;">
-                💭 Developer's Truth
-              </h3>
-              <p style="
-                font-size: 20px;
-                font-style: italic;
-                color: white;
-                line-height: 1.5;">
-                "The best error message is the one<br>
-                that never shows up."
-              </p>
-              <p style="
-                color: #2DEBA7;
-                font-size: 18px;
-                text-align: right;">
-                - Thomas Fuchs 💻
-              </p>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
-
-  <!-- Profile Trophy -->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/-%22Programming%20isn't%20about%20what%20you%20know%3B%20it's%20about%20what%20you%20can%20figure%20out.%22-1a1b27?style=for-the-badge" alt="Programming Quote"/>
+      <img src="https://img.shields.io/badge/-Chris%20Pine-4e5173?style=flat-square" alt="Chris Pine"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/-%22The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.%22-1a1b27?style=for-the-badge" alt="Error Message Quote"/>
+      <img src="https://img.shields.io/badge/-Thomas%20Fuchs-4e5173?style=flat-square" alt="Thomas Fuchs"/>
+    </td>
+  </tr>
+</table>
 
   <!-- Activity Graph -->
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
