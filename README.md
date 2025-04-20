@@ -37,7 +37,9 @@ Passionate Backend Developer with expertise in .NET and JavaScript technologies.
 ## 🎯 Featured Projects
 
 ### SCEPHUB - Educational Platform
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/mothana404/SCEPHub))
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mothana404/SCEPHub) 
+
+[![LinkedIn Post](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/mothana-majali77_learningplatform-universitystudents-webdevelopment-activity-7292873160624926722-181n)
 
 [![LinkedIn Post](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://github.com/mothana404/SCEPHub](https://www.linkedin.com/posts/mothana-majali77_learningplatform-universitystudents-webdevelopment-activity-7292873160624926722-181n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjqxEABxWytTLFsDcG24TJ0668cCEBVc_g)))
 
@@ -49,7 +51,7 @@ An innovative educational platform built for university students featuring:
 - 🛠️ Tech Stack: React, Tailwind CSS, Nest.js, PostgreSQL
 
 ### Giftify - Modern Gifting Platform
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)]([your-github-link](https://github.com/giftyfy/Giftify))
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giftyfy/Giftify)
 
 A revolutionary gifting platform featuring:
 - 🎁 Intuitive gift selection and management
