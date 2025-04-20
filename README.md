@@ -74,40 +74,39 @@ Feel free to reach out for collaborations or just a friendly chat:
   <!-- Typing Animation -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DEBA7&random=false&width=435&lines=Backend+Developer;Problem+Solver;Code+Enthusiast;Always+Learning)](https://git.io/typing-svg)
 
-<!-- Option 1: Animated Quote with Different Style -->
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=churchill&font=default)
+## 💭 Developer's Wisdom
 
-<!-- Option 2: Programming Quotes -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=First,+solve+the+problem.+Then,+write+the+code.+-+John+Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<!-- Option 3: Custom Quote with Different Theme -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=The+best+error+message+is+the+one+that+never+shows+up.+-+Thomas+Fuchs)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<!-- Option 4: Minimalist Quote -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DEBA7&center=true&vCenter=true&width=435&lines=Code+is+like+humor.;When+you+have+to+explain+it%2C;it's+bad.;-+Cory+House" alt="Programming Quote"/>
+  <div style="background: #1a1b27; padding: 20px; border-radius: 10px; margin: 10px;">
+    <i>"Programming isn't about what you know; it's about what you can figure out."</i><br>
+    <strong>- Chris Pine</strong>
+  </div>
+
+  <div style="background: #1a1b27; padding: 20px; border-radius: 10px; margin: 10px;">
+    <i>"The best error message is the one that never shows up."</i><br>
+    <strong>- Thomas Fuchs</strong>
+  </div>
 </div>
 
-<!-- Option 5: Multiple Rotating Quotes -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2DEBA7&center=true&vCenter=true&width=435&lines=Quality+is+not+an+act%2C+it+is+a+habit.;Simplicity+is+the+soul+of+efficiency.;Make+it+work%2C+make+it+right%2C+make+it+fast.;Clean+code+always+looks+like+it+was+written+by+someone+who+cares.)](https://git.io/typing-svg)
+## 💭 Developer's Wisdom
 
-<!-- Option 6: Stylized Quote Box -->
 <div align="center">
   <table>
     <tr>
-      <td>
-        <strong>💭 Developer's Wisdom</strong><br>
-        "Programming isn't about what you know; it's about what you can figure out."<br>
-        <em>- Chris Pine</em>
+      <td align="center">
+        <i>"Programming isn't about what you know;<br>
+        it's about what you can figure out."</i><br>
+        <strong>- Chris Pine</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <i>"The best error message is the one<br>
+        that never shows up."</i><br>
+        <strong>- Thomas Fuchs</strong>
       </td>
     </tr>
   </table>
-</div>
-
-<!-- Option 7: Animated Quote Box -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2DEBA7&center=true&vCenter=true&width=435&lines=The+only+way+to+do+great+work;is+to+love+what+you+do.;-+Steve+Jobs" alt="Motivational Quote"/>
-</div>
 
   <!-- Profile Trophy -->
   [![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
