@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👨‍💻 Mothana Almajali</h1>
+  <h1>Mothana Almajali</h1>
   <h3>Backend Developer | Software Engineer</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mothana-majali77/)
@@ -7,11 +7,11 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mothana404/)
 </div>
 
-## 🚀 About Me
+## About Me
 
 Passionate Backend Developer with expertise in .NET and JavaScript technologies. Through intensive bootcamp experiences and practical training, I've developed a strong foundation in creating robust server-side applications, RESTful APIs, and efficient database solutions. I combine my software engineering degree with hands-on experience to deliver clean, scalable code for real-world challenges.
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Backend Development
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -34,7 +34,7 @@ Passionate Backend Developer with expertise in .NET and JavaScript technologies.
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 🎯 Featured Projects
+## Featured Projects
 
 ### SCEPHUB - Educational Platform
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mothana404/SCEPHub) 
@@ -42,30 +42,30 @@ Passionate Backend Developer with expertise in .NET and JavaScript technologies.
 [![LinkedIn Post](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/mothana-majali77_learningplatform-universitystudents-webdevelopment-activity-7292873160624926722-181n)
 
 An innovative educational platform built for university students featuring:
-- 🎓 Subscription-based course access
-- 👥 Real-time collaboration tools
-- 💳 Integrated Stripe payments
-- 📊 Comprehensive dashboards for students, instructors, and administrators
-- 🛠️ Tech Stack: React, Tailwind CSS, Nest.js, PostgreSQL
+- Subscription-based course access
+- Real-time collaboration tools
+- Integrated Stripe payments
+- Comprehensive dashboards for students, instructors, and administrators
+- Tech Stack: React, Tailwind CSS, Nest.js, PostgreSQL
 
 ### Giftify - Modern Gifting Platform
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giftyfy/Giftify)
 
 A revolutionary gifting platform featuring:
-- 🎁 Intuitive gift selection and management
-- 🔐 Secure authentication with Google login
-- 📸 Streamlined image uploads with Multer and Firebase
-- 💳 Integrated Stripe payment processing
-- 🛠️ Tech Stack: React, Node.js, Express, PostgreSQL, Tailwind CSS
+- Intuitive gift selection and management
+- Secure authentication with Google login
+- Streamlined image uploads with Multer and Firebase
+- Integrated Stripe payment processing
+- Tech Stack: React, Node.js, Express, PostgreSQL, Tailwind CSS
 
-## 📫 Let's Connect
+## Let's Connect
 
 Feel free to reach out for collaborations or just a friendly chat:
-- 📧 Email: mothanaalmajali91@gmail.com
-- 📱 Phone: +962 7 777 163 28
-- 💼 LinkedIn: [Mothana Almajali](https://www.linkedin.com/in/mothana-majali77/)
+- Email: mothanaalmajali91@gmail.com
+- Phone: +962 7 777 163 28
+- LinkedIn: [Mothana Almajali](https://www.linkedin.com/in/mothana-majali77/)
 
-## 💭 Developer's Wisdom
+## Developer's Wisdom
 
 <div align="center">
   <table>
