@@ -1,17 +1,21 @@
 <div align="center">
   <h1>Mothana Almajali</h1>
-  <h3>Backend Developer | Software Engineer</h3>
+  <h3>Software Engineer | Backend Developer</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mothana-majali77/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mothanaalmajali91@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mothana404/)
+  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+962777716328)
 </div>
 
-## About Me
+---
 
-Passionate Backend Developer with expertise in .NET and JavaScript technologies. Through intensive bootcamp experiences and practical training, I've developed a strong foundation in creating robust server-side applications, RESTful APIs, and efficient database solutions. I combine my software engineering degree with hands-on experience to deliver clean, scalable code for real-world challenges.
+## 👨‍💻 About Me
 
-## Tech Stack
+Backend-focused Software Engineer with hands-on experience in RESTful API development and database-driven systems. Currently working with production healthcare systems, I combine strong problem-solving skills with the ability to adapt quickly to complex codebases. Passionate about building scalable, maintainable solutions and optimizing system performance.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Backend Development
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -19,6 +23,7 @@ Passionate Backend Developer with expertise in .NET and JavaScript technologies.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![MUMPS](https://img.shields.io/badge/MUMPS-4B0082?style=for-the-badge&logo=code&logoColor=white)
 
 ### Frontend Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,44 +33,59 @@ Passionate Backend Developer with expertise in .NET and JavaScript technologies.
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Database & Cloud
+### Database & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-## Featured Projects
+---
 
-### SCEPHUB - Educational Platform
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mothana404/SCEPHub) 
+## 🚀 What I Bring
 
-[![LinkedIn Post](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/mothana-majali77_learningplatform-universitystudents-webdevelopment-activity-7292873160624926722-181n)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/API-Development-blue?style=for-the-badge" alt=""/>
+      <br><br>
+      <strong>RESTful APIs</strong>
+      <p>Building scalable and well-documented APIs with clean architecture</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Database-Design-green?style=for-the-badge" alt=""/>
+      <br><br>
+      <strong>Database Management</strong>
+      <p>Designing efficient schemas and optimizing query performance</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Problem-Solving-red?style=for-the-badge" alt=""/>
+      <br><br>
+      <strong>Debugging & Optimization</strong>
+      <p>Troubleshooting complex issues and improving system reliability</p>
+    </td>
+  </tr>
+</table>
 
-An innovative educational platform built for university students featuring:
-- Subscription-based course access
-- Real-time collaboration tools
-- Integrated Stripe payments
-- Comprehensive dashboards for students, instructors, and administrators
-- Tech Stack: React, Tailwind CSS, Nest.js, PostgreSQL
+---
 
-### Giftify - Modern Gifting Platform
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giftyfy/Giftify)
+## 📫 Let's Connect
 
-A revolutionary gifting platform featuring:
-- Intuitive gift selection and management
-- Secure authentication with Google login
-- Streamlined image uploads with Multer and Firebase
-- Integrated Stripe payment processing
-- Tech Stack: React, Node.js, Express, PostgreSQL, Tailwind CSS
+<div align="center">
+  
+  **Feel free to reach out for collaborations or just a friendly chat!**
+  
+  📧 Email: mothanaalmajali91@gmail.com  
+  📱 Phone: +962 7 777 163 28  
+  💼 LinkedIn: [Mothana Almajali](https://www.linkedin.com/in/mothana-majali77/)
+  
+</div>
 
-## Let's Connect
+---
 
-Feel free to reach out for collaborations or just a friendly chat:
-- Email: mothanaalmajali91@gmail.com
-- Phone: +962 7 777 163 28
-- LinkedIn: [Mothana Almajali](https://www.linkedin.com/in/mothana-majali77/)
-
-## Developer's Wisdom
+## 💭 Developer's Wisdom
 
 <div align="center">
   <table>
@@ -73,9 +93,9 @@ Feel free to reach out for collaborations or just a friendly chat:
       <td align="center">
         <img src="https://img.shields.io/badge/Quote_%231-282A36?style=for-the-badge&logo=quote&logoColor=white" alt=""/>
         <br>
-        <h3><i>"Programming isn't about what you know;<br>
-        it's about what you can figure out."</i></h3>
-        <p>⚡ <strong>Chris Pine</strong></p>
+        <h3><i>"First, solve the problem.<br>
+        Then, write the code."</i></h3>
+        <p>💡 <strong>John Johnson</strong></p>
       </td>
     </tr>
     </br>
@@ -83,17 +103,22 @@ Feel free to reach out for collaborations or just a friendly chat:
       <td align="center">
         <img src="https://img.shields.io/badge/Quote_%232-282A36?style=for-the-badge&logo=quote&logoColor=white" alt=""/>
         <br>
-        <h3><i>"The best error message is the one<br>
-        that never shows up."</i></h3>
-        <p>💻 <strong>Thomas Fuchs</strong></p>
+        <h3><i>"Code is like humor.<br>
+        When you have to explain it, it's bad."</i></h3>
+        <p>😄 <strong>Cory House</strong></p>
       </td>
     </tr>
   </table>
 </div>
 
+---
+
 <div align="center">
 
   ![Coffee](https://img.shields.io/badge/Coffee%20Level-Full-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
-  ![Sleep](https://img.shields.io/badge/Sleep%20Level-Low-red?style=for-the-badge&logo=sleepordie&logoColor=white)
+  ![Code](https://img.shields.io/badge/Code%20Quality-High-success?style=for-the-badge&logo=code&logoColor=white)
   ![Debug](https://img.shields.io/badge/Debug%20Mode-ON-brightgreen?style=for-the-badge&logo=debug&logoColor=white)
+  
+  ### 💻 *"Building robust backends, one API at a time"* 💻
+  
 </div>
